@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reveries-web"
+    }
+  },
+  "defaultProject": "reveries-web",
+  "cli": {
+    "analytics": false
+  }
 }
